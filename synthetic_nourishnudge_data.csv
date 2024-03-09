@@ -1,0 +1,6 @@
+Ingredient,Quantity,Unit,Category,Recipe,Recipe Category,Recipe Difficulty,Calories,Carbohydrates,Proteins,Fats,Vitamins,Minerals,Dietary Preferences,Dietary Restrictions,Health Goals,Rating,Comments,Ingredient Substitutions,Serving Size,Prep Time (mins),Cook Time (mins)
+Chicken,55,grams,Proteins,Chicken Stir-Fry,Dinner,Easy,201,42,42,41,Vitamin A,Iron,Italian Cuisine,Allergy: Nuts,Weight Loss,4,Delicious!,Almond milk instead of cow milk,3,54,25
+Broccoli,156,ounces,Vegetables,Broccoli Salad,Lunch,Medium,364,38,46,21,Vitamin C,Calcium,Spicy Food,Dairy-Free,Muscle Gain,4,Needs more seasoning,Tofu instead of chicken,1,42,17
+Rice,68,cups,Grains,Tomato Soup,Soup,Medium,434,32,18,18,Vitamin D,Potassium,Low-Carb,Low-Sodium,Maintenance,1,Too salty,,4,11,49
+Tomato,123,pieces,Fruits,Spinach Smoothie,Breakfast,Easy,320,18,16,15,Vitamin E,Magnesium,Vegetarian,Vegan,Heart Health,1,Great recipe!,No substitutions,2,23,44
+Spinach,80,slices,Dairy,Rice Pilaf,Snack,Hard,171,39,40,37,Vitamin K,Zinc,Gluten-Free,Keto,Energy Boost,4,Easy to make,,1,25,35
